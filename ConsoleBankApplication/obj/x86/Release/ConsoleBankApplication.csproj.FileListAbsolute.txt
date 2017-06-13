@@ -1,0 +1,5 @@
+C:\Users\Shreyas\documents\visual studio 2010\Projects\ConsoleBankApplication\ConsoleBankApplication\bin\Release\ConsoleBankApplication.exe
+C:\Users\Shreyas\documents\visual studio 2010\Projects\ConsoleBankApplication\ConsoleBankApplication\bin\Release\ConsoleBankApplication.pdb
+C:\Users\Shreyas\documents\visual studio 2010\Projects\ConsoleBankApplication\ConsoleBankApplication\obj\x86\Release\ConsoleBankApplication.exe
+C:\Users\Shreyas\documents\visual studio 2010\Projects\ConsoleBankApplication\ConsoleBankApplication\obj\x86\Release\ConsoleBankApplication.pdb
+C:\Users\Shreyas\documents\visual studio 2010\Projects\ConsoleBankApplication\ConsoleBankApplication\obj\x86\Release\ConsoleBankApplication.csprojResolveAssemblyReference.cache
