@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/AlexaBank
+/AlexaBank.Domain/bin
+/AlexaBank.Domain/obj
+/Console.UI/bin
+/Console.UI/obj/Debug/netcoreapp3.1
+/Console.UI/obj/Release/netcoreapp3.1
+/Console.UI/obj
