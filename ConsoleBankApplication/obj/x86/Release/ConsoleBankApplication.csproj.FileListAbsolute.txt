@@ -3,3 +3,9 @@ C:\Users\Shreyas\documents\visual studio 2010\Projects\ConsoleBankApplication\Co
 C:\Users\Shreyas\documents\visual studio 2010\Projects\ConsoleBankApplication\ConsoleBankApplication\obj\x86\Release\ConsoleBankApplication.exe
 C:\Users\Shreyas\documents\visual studio 2010\Projects\ConsoleBankApplication\ConsoleBankApplication\obj\x86\Release\ConsoleBankApplication.pdb
 C:\Users\Shreyas\documents\visual studio 2010\Projects\ConsoleBankApplication\ConsoleBankApplication\obj\x86\Release\ConsoleBankApplication.csprojResolveAssemblyReference.cache
+E:\Projects\Github\ConsoleBankApplication\ConsoleBankApplication\bin\Release\ConsoleBankApplication.exe
+E:\Projects\Github\ConsoleBankApplication\ConsoleBankApplication\bin\Release\ConsoleBankApplication.pdb
+E:\Projects\Github\ConsoleBankApplication\ConsoleBankApplication\obj\x86\Release\ConsoleBankApplication.csprojAssemblyReference.cache
+E:\Projects\Github\ConsoleBankApplication\ConsoleBankApplication\obj\x86\Release\ConsoleBankApplication.csproj.CoreCompileInputs.cache
+E:\Projects\Github\ConsoleBankApplication\ConsoleBankApplication\obj\x86\Release\ConsoleBankApplication.exe
+E:\Projects\Github\ConsoleBankApplication\ConsoleBankApplication\obj\x86\Release\ConsoleBankApplication.pdb
